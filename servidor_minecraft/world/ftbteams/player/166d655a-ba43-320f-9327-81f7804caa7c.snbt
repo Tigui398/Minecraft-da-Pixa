@@ -1,0 +1,17 @@
+{
+	id: "166d655a-ba43-320f-9327-81f7804caa7c"
+	type: "player"
+	player_name: "Tigui398"
+	ranks: {
+		166d655a-ba43-320f-9327-81f7804caa7c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tigui398"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

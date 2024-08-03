@@ -1,0 +1,1020 @@
+{
+  "entries": [
+    {
+      "item": "alexscaves:vesper_wing",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:corrodent_teeth",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:shadow_silk",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:dark_tatters",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:fertilizer",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:moth_dust",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:guano",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:thornwood_branch",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:occult_gem",
+      "emc": 20000
+    },
+    {
+      "item": "alexscaves:pure_darkness",
+      "emc": 200000
+    },
+    {
+      "item": "cataclysm:abyssal_sacrifice",
+      "emc": 100000
+    },
+    {
+      "item": "cataclysm:kobolediator_skull",
+      "emc": 1000
+    },
+    {
+      "item": "cataclysm:ancient_metal_nugget",
+      "emc": 100
+    },
+    {
+      "item": "cataclysm:crystallized_coral",
+      "emc": 100
+    },
+    {
+      "item": "cataclysm:ignitium_ingot",
+      "emc": 10000
+    },
+    {
+      "item": "cataclysm:monstrous_horn",
+      "emc": 10000
+    },
+    {
+      "item": "cataclysm:koboleton_bone",
+      "emc": 100
+    },
+    {
+      "item": "cataclysm:void_jaw",
+      "emc": 100
+    },
+    {
+      "item": "cataclysm:ignitium_upgrade_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "deeperdarker:reinforced_echo_shard",
+      "emc": 10000
+    },
+    {
+      "item": "deeperdarker:warden_carapace",
+      "emc": 10000
+    },
+    {
+      "item": "deeperdarker:soul_crystal",
+      "emc": 1000
+    },
+    {
+      "item": "deeperdarker:heart_of_the_deep",
+      "emc": 10000
+    },
+    {
+      "item": "deeperdarker:soul_dust",
+      "emc": 1000
+    },
+    {
+      "item": "deeperdarker:sculk_bone",
+      "emc": 10
+    },
+    {
+      "item": "cataclysm:crystallized_coral_fragments",
+      "emc": 10
+    },
+    {
+      "item": "cataclysm:coral_chunk",
+      "emc": 10
+    },
+    {
+      "item": "cataclysm:ancient_metal_ingot",
+      "emc": 100
+    },
+    {
+      "item": "epicsamurai:spirit_flame",
+      "emc": 100
+    },
+    {
+      "item": "epicsamurai:jorogumo_eye",
+      "emc": 100
+    },
+    {
+      "item": "epicsamurai:oni_horn",
+      "emc": 100
+    },
+    {
+      "item": "epicsamurai:cloth",
+      "emc": 100
+    },
+    {
+      "item": "dragonitegear:raw_dragonite",
+      "emc": 56000
+    },
+    {
+      "item": "dragonitegear:dragonite_ingot",
+      "emc": 90341
+    },
+    {
+      "item": "dragonitegear:dragonite_infused_ingot",
+      "emc": 215003
+    },
+    {
+      "item": "deeperdarker:warden_upgrade_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "deeperdarker:sculk_transmitter",
+      "emc": 2500
+    },
+    {
+      "item": "epicsamurai:akaname_tongue",
+      "emc": 5
+    },
+    {
+      "item": "epicsamurai:kitsune_tail",
+      "emc": 5
+    },
+    {
+      "item": "epicsamurai:kitsune_hide",
+      "emc": 5
+    },
+    {
+      "item": "epicpaladins:arclight_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:bloodstone_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:steel_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:sculk_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:moonlight_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:jade_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:cryorium_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicsamurai:spirit_upgrade_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "epicpaladins:moonlight_gem",
+      "emc": 2000
+    },
+    {
+      "item": "epicpaladins:jade_gem",
+      "emc": 2000
+    },
+    {
+      "item": "epicpaladins:bloodstone_gem",
+      "emc": 2000
+    },
+    {
+      "item": "epicpaladins:cryorium_gem",
+      "emc": 2000
+    },
+    {
+      "item": "epicsamurai:ruby",
+      "emc": 2000
+    },
+    {
+      "item": "epicsamurai:jade",
+      "emc": 2000
+    },
+    {
+      "item": "epicsamurai:aquamarine",
+      "emc": 2000
+    },
+    {
+      "item": "iceandfire:dragonsteel_fire_ingot",
+      "emc": 92053
+    },
+    {
+      "item": "iceandfire:dragonsteel_lightning_ingot",
+      "emc": 94123
+    },
+    {
+      "item": "iceandfire:dragonsteel_ice_ingot",
+      "emc": 97251
+    },
+    {
+      "item": "iceandfire:ghost_ingot",
+      "emc": 4012
+    },
+    {
+      "item": "iceandfire:ice_dragon_heart",
+      "emc": 1241
+    },
+    {
+      "item": "iceandfire:fire_dragon_heart",
+      "emc": 1247
+    },
+    {
+      "item": "iceandfire:lightning_dragon_heart",
+      "emc": 1256
+    },
+    {
+      "item": "epicpaladins:arclight_gem",
+      "emc": 2000
+    },
+    {
+      "item": "epicsamurai:onyx",
+      "emc": 2000
+    },
+    {
+      "item": "dreadsteel:dreadsteel_ingot",
+      "emc": 942143
+    },
+    {
+      "item": "rogcontinued:jeweledbranchofadistantsea",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:coralbranchofadistantsea",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:chunkofaerosiderite",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:bitofaerosiderite",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:pieceofaerosiderite",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:grainofaerosiderite",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:mistveiledprimoelixir",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:goldenbranchofadistantsea",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:jadebranchofadistantsea",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:fragmentofdecarabiansepic",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:dreamofthedandeliongladiator",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:shacklesofthedandeliongladiator",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:chainsofthedandeliongladiator",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:luminoussandsfromguyun",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:lustrousstonefromguyun",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:relicfromguyun",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:divinebodyfromguyun",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:mistveiledleadelixir",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:scatteredpieceofdecarabiansdream",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:fettersofthedandeliongladiator",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:borealwolfsnostalgia",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:borealwolfsbrokenfang",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:borealwolfscrackedtooth",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:borealwolfsmilktooth",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:mistveiledmercuryelixir",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:mistveiledgoldelixir",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:debrisofdecarabianscity",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:myrmex_desert_chitin",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:deathworm_chitin_red",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:deathworm_chitin_white",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:deathworm_chitin_yellow",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:troll_leather_forest",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:dragonbone",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:witherbone",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:hydra_fang",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:manuscript",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:dread_shard",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:myrmex_jungle_chitin",
+      "emc": 20
+    },
+    {
+      "item": "iceandfire:dragonscales_electric",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_silver",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_sapphire",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_white",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_blue",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_gray",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_bronze",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_teal",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_purple",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_deepblue",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_green",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_red",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_bronze",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:sea_serpent_scales_blue",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:shiny_scales",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_amythest",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_green",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_red",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_copper",
+      "emc": 5000
+    },
+    {
+      "item": "iceandfire:dragonscales_black",
+      "emc": 5000
+    },
+    {
+      "item": "twilightforest:knightmetal_ingot",
+      "emc": 200
+    },
+    {
+      "item": "twilightforest:ironwood_ingot",
+      "emc": 200
+    },
+    {
+      "item": "twilightforest:steeleaf_ingot",
+      "emc": 20
+    },
+    {
+      "item": "twilightforest:raven_feather",
+      "emc": 20
+    },
+    {
+      "item": "twilightforest:magic_beans",
+      "emc": 20
+    },
+    {
+      "item": "twilightforest:naga_scale",
+      "emc": 1245
+    },
+    {
+      "item": "twilightforest:alpha_yeti_fur",
+      "emc": 1245
+    },
+    {
+      "item": "twilightforest:fiery_ingot",
+      "emc": 4216
+    },
+    {
+      "item": "twilightforest:arctic_fur",
+      "emc": 59
+    },
+    {
+      "item": "alexscaves:polarity_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "wom:demon_seal",
+      "emc": 2500
+    },
+    {
+      "item": "alexscaves:notor_gizmo",
+      "emc": 1000
+    },
+    {
+      "item": "alexscaves:ferrouslime_ball",
+      "emc": 1000
+    },
+    {
+      "item": "alexscaves:telecore",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:matter_ball",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:fluix_crystal",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:fluix_dust",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:certus_quartz_crystal",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:charged_certus_quartz_crystal",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:certus_quartz_dust",
+      "emc": 1000
+    },
+    {
+      "item": "ae2:silicon",
+      "emc": 1000
+    },
+    {
+      "item": "alexscaves:scarlet_neodymium_ingot",
+      "emc": 1000
+    },
+    {
+      "item": "alexscaves:azure_neodymium_ingot",
+      "emc": 1000
+    },
+    {
+      "item": "rpgsmw:emerald_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:amethyst_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:miphril_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:nephris_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:pinarium_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:redarium_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:edmantium_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:biril_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:rangal_dust",
+      "emc": 300
+    },
+    {
+      "item": "rpgsmw:miphrilignot",
+      "emc": 3023
+    },
+    {
+      "item": "rpgsmw:gildedmiphril",
+      "emc": 3256
+    },
+    {
+      "item": "rpgsmw:edmantium",
+      "emc": 35
+    },
+    {
+      "item": "rpgsmw:redarium",
+      "emc": 36
+    },
+    {
+      "item": "rpgsmw:pinarium",
+      "emc": 31
+    },
+    {
+      "item": "rpgsmw:biril",
+      "emc": 39
+    },
+    {
+      "item": "rpgsmw:rangal",
+      "emc": 201
+    },
+    {
+      "item": "rpgsmw:nephriscrystal",
+      "emc": 6000
+    },
+    {
+      "item": "rpgsmw:nephrisshard",
+      "emc": 3000
+    },
+    {
+      "item": "lost_aether_content:noble_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "rogcontinued:whiteironchunk",
+      "emc": 2000
+    },
+    {
+      "item": "alexscaves:tectonic_shard",
+      "emc": 20000
+    },
+    {
+      "item": "aether:swet_ball",
+      "emc": 20
+    },
+    {
+      "item": "aether:aechor_petal",
+      "emc": 20
+    },
+    {
+      "item": "aether:golden_amber",
+      "emc": 2000
+    },
+    {
+      "item": "aether:zanite_gemstone",
+      "emc": 2032
+    },
+    {
+      "item": "aether:ambrosium_shard",
+      "emc": 2032
+    },
+    {
+      "item": "rogcontinued:crystalchunk",
+      "emc": 2055
+    },
+    {
+      "item": "alexscaves:polymer_plate",
+      "emc": 205
+    },
+    {
+      "item": "aquaculture:neptunium_ingot",
+      "emc": 226
+    },
+    {
+      "item": "simplyswords:empowered_remnant",
+      "emc": 20542
+    },
+    {
+      "item": "simplyswords:runic_tablet",
+      "emc": 20564
+    },
+    {
+      "item": "rogcontinued:amethystlump",
+      "emc": 2000
+    },
+    {
+      "item": "rogcontinued:starsilverchunk",
+      "emc": 2032
+    },
+    {
+      "item": "rogcontinued:starsilverchunkore",
+      "emc": 2031
+    },
+    {
+      "item": "rogcontinued:amethystlumpore",
+      "emc": 2031
+    },
+    {
+      "item": "rogcontinued:ironchunk",
+      "emc": 2038
+    },
+    {
+      "item": "alexscaves:toxic_paste",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:marine_snow",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:sea_glass_shards",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:sulfur_dust",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:uranium_shard",
+      "emc": 20
+    },
+    {
+      "item": "alexscaves:uranium",
+      "emc": 300
+    },
+    {
+      "item": "alexscaves:gazing_pearl{HasReputation:1b,LastReputationTimestamp:240148L,Reputation:0}",
+      "emc": 3000
+    },
+    {
+      "item": "alexscaves:depth_charge",
+      "emc": 3000
+    },
+    {
+      "item": "alexscaves:immortal_embryo",
+      "emc": 15312
+    },
+    {
+      "item": "rogcontinued:narukamiswisdom",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:tileofdecarabianstower",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:narukamisjoy",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:narukamisaffection",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:narukamisvalor",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:maskofthewickedlieutenant",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:maskofthetigersbite",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:maskoftheonehorned",
+      "emc": 5000
+    },
+    {
+      "item": "rogcontinued:maskofthekijin",
+      "emc": 5000
+    },
+    {
+      "item": "blue_skies:charoite",
+      "emc": 231
+    },
+    {
+      "item": "blue_skies:horizonite_ingot",
+      "emc": 261
+    },
+    {
+      "item": "alexsmobs:void_worm_eye",
+      "emc": 2701
+    },
+    {
+      "item": "alexsmobs:void_worm_mandible",
+      "emc": 270
+    },
+    {
+      "item": "aquamirae:ship_graveyard_echo",
+      "emc": 2234
+    },
+    {
+      "item": "aquamirae:rune_of_the_storm",
+      "emc": 6012
+    },
+    {
+      "item": "aquamirae:anglers_fang",
+      "emc": 14
+    },
+    {
+      "item": "aquamirae:abyssal_amethyst",
+      "emc": 2412
+    },
+    {
+      "item": "aquamirae:sharp_bones",
+      "emc": 2
+    },
+    {
+      "item": "blue_skies:toxic_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "blue_skies:regrowth_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "blue_skies:banished_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "blue_skies:thwarted_armor_trim_smithing_template",
+      "emc": 25000
+    },
+    {
+      "item": "born_in_chaos_v1:spiny_shell",
+      "emc": 22
+    },
+    {
+      "item": "born_in_chaos_v1:transmuting_elixir",
+      "emc": 2253
+    },
+    {
+      "item": "blue_skies:falsite_ingot",
+      "emc": 221
+    },
+    {
+      "item": "blue_skies:ventium_ingot",
+      "emc": 251
+    },
+    {
+      "item": "born_in_chaos_v1:pieceofdarkmetal",
+      "emc": 25
+    },
+    {
+      "item": "born_in_chaos_v1:pileof_dark_metal",
+      "emc": 50
+    },
+    {
+      "item": "blue_skies:pyrope_gem",
+      "emc": 124
+    },
+    {
+      "item": "blue_skies:aquite",
+      "emc": 126
+    },
+    {
+      "item": "blue_skies:diopside_gem",
+      "emc": 168
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 501
+    },
+    {
+      "item": "born_in_chaos_v1:phantom_powder",
+      "emc": 20
+    },
+    {
+      "item": "soulslikeuniverse:charredpiece",
+      "emc": 25
+    },
+    {
+      "item": "blue_skies:star_flare",
+      "emc": 26
+    },
+    {
+      "item": "blue_skies:fox_pelt",
+      "emc": 64
+    },
+    {
+      "item": "bosses_of_mass_destruction:soul_star",
+      "emc": 26
+    },
+    {
+      "item": "born_in_chaos_v1:fangofthe_hound_leader",
+      "emc": 21
+    },
+    {
+      "item": "born_in_chaos_v1:dark_upgrade",
+      "emc": 25000
+    },
+    {
+      "item": "born_in_chaos_v1:orbofthe_summoner",
+      "emc": 2527
+    },
+    {
+      "item": "born_in_chaos_v1:seedof_chaos",
+      "emc": 256
+    },
+    {
+      "item": "born_in_chaos_v1:spiritual_dust",
+      "emc": 25
+    },
+    {
+      "item": "born_in_chaos_v1:dark_metal_ingot",
+      "emc": 226
+    },
+    {
+      "item": "born_in_chaos_v1:monster_skin",
+      "emc": 22
+    },
+    {
+      "item": "born_in_chaos_v1:nightmare_claw",
+      "emc": 21
+    },
+    {
+      "item": "cardinal_sins:darksteelingot",
+      "emc": 279
+    },
+    {
+      "item": "bosses_of_mass_destruction:void_lily",
+      "emc": 27
+    },
+    {
+      "item": "bosses_of_mass_destruction:ancient_anima",
+      "emc": 241
+    },
+    {
+      "item": "bosses_of_mass_destruction:blazing_eye",
+      "emc": 247
+    },
+    {
+      "item": "bosses_of_mass_destruction:obsidian_heart",
+      "emc": 246
+    },
+    {
+      "item": "bosses_of_mass_destruction:void_thorn",
+      "emc": 240
+    },
+    {
+      "item": "bosses_of_mass_destruction:crystal_fruit",
+      "emc": 223
+    },
+    {
+      "item": "bosses_of_mass_destruction:charged_ender_pearl",
+      "emc": 120
+    },
+    {
+      "item": "bosses_of_mass_destruction:brimstone_nectar",
+      "emc": 292
+    },
+    {
+      "item": "cataclysm:witherite_ingot",
+      "emc": 6912
+    },
+    {
+      "item": "cardinal_sins:malevolichite",
+      "emc": 253
+    },
+    {
+      "item": "cardinal_sins:essenceofsloth",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceofgluttony",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceoflust",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceofenvy",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceofwrath",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceofpride",
+      "emc": 12361
+    },
+    {
+      "item": "cardinal_sins:essenceofatrocity",
+      "emc": 12361
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Enable or disable the set effects
+enable_set_effect = true
+# A list of effects to give when wearing full armor set. (Requires the effects to be enabled)
+full_set_effects = ["minecraft:strength", "minecraft:resistance"]
+# Effect amplifier for the set effects
+#Range: 1 ~ 3
+effect_amplifier = 1
+
